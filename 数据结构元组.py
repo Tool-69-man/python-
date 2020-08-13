@@ -1,0 +1,12 @@
+skill = ('excel', 'ps', 'github and git', 'fiddler')
+print('我所学技能个数', len(skill))
+code = ('C', 'html and css', 'C++', 'python', skill)
+print('大一的一切', len(code))
+print('展示所有', code)
+print('展示应有技能', code[4])
+print('展示与python关联技能', code[4][3])
+zore = ()
+print(len(zore))
+one = (2,)
+print(len(one))
+
